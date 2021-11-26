@@ -17,7 +17,7 @@
 
 ### **INSPIRATION**
 
-My passion of graffiti art merged with my nostalgia for old Macs that I often used as a child. 
+My passion of graffiti art merged with my nostalgia for old Macs that I often used as a child. How could I combine the two? What follows is a journey into the world of retro Macs fusing with modern graffiti. Albeit it limited in what I could produce, it was an interesting insight into how creatives worked all these years ago.
 
 ### **HOW?**
 
@@ -48,14 +48,14 @@ SheepShaver should now boot into the Mac OS 9.0.0 installation page. If all prev
 
 Now we start: tagging Mac. As the Macintosh Graffiti Group, we wanted to explore the possibilites of graffiti art within Mac OS 9.0.0. We chose to install Photoshop 6.0, a powerful tool for the time.
 
-I allowed people to have a go at Mac OS 9. To many, it was a cool and especially nostalgic experience.
-
 It taught us how much computers have advanced over the years, how appreciative we should be of these advancements that have improved our creative workflows. However, it's also taught us the similarities. Despite the obvious UI differences, Mac OS 9.0.0 was extremely similar to use as modern day Macs, as was Photoshop 6.0. Same shortcuts, same general layout - migration to the Mac OS 9.0.0 universe was not too difficult. 
 
 ### **GIVING GRAFFITI ARTISTS THE TOOLS TO COLLABORATE**
 
 https://user-images.githubusercontent.com/95049774/143517687-e8fb20bd-ab49-4137-b922-a4dc1c2abbf5.mov
 
+
+I allowed people to have a go at Mac OS 9.0.0 and write their tag. To many, it was a cool and especially nostalgic experience. They also saw similarites in software as today, it wasn't a completely different experience that many expected.
 
 ![PXL_20211125_173127307](https://user-images.githubusercontent.com/95049774/143521864-ff1a7903-e391-4332-8398-eb2eaf480e47.jpg)
 ![PXL_20211125_201942258 MP](https://user-images.githubusercontent.com/95049774/143521904-dd789480-c619-485f-9820-cd43061b676f.jpg)
