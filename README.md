@@ -1,9 +1,10 @@
 # mac-graffiti
 
-# "MACINTOSH GRAFFITI GROUP"
+![Macintosh Graffiti Group Logo WHITE](https://user-images.githubusercontent.com/95049774/143523174-8f2b1607-215e-4407-a0a3-03537cb616df.png)
+
 
 ### *LEAVING OUR MARK ON RETRO MAC!*
-![tagged mac 1 copy](https://user-images.githubusercontent.com/95049774/143516800-e8fff3ed-7acb-43b0-83be-e630983834b9.png)
+
 
 # ***We wanted to push the boundaries of graffiti.***
 
@@ -16,6 +17,8 @@
 ***Welcome to the past, welcome to Mac OS 9, a new playground for graffiti.***
 
 ***We are the Macintosh Graffiti Group - Tagging Mac OS 9.0.0 since 2021.***
+
+![tagged mac 1 copy](https://user-images.githubusercontent.com/95049774/143516800-e8fff3ed-7acb-43b0-83be-e630983834b9.png)
 
 ### **HOW?**
 
