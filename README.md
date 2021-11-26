@@ -7,6 +7,8 @@
 
 ### ***I wanted to push the boundaries of graffiti. As graffiti artists we always ask "What hasn't been tagged?" Man has always asked "Is time travel possible?" Open-Source software says yes. Welcome to the past, welcome to Mac OS 9, a new playground for graffiti.***
 
+We are the Macintosh Graffiti Group - Tagging Mac OS 9.0.0 since 2021.
+
 ### **HOW?**
 
 SheepShaver, an open-source PowerMac emulator by Christian Bauer, gives users the tools needed to emulate classic MacOS operating systems and applications within the modern MacOS multitasking environment. Thanks to repositories such as [MacintoshRepository](https://www.macintoshrepository.org) and [MacintoshGarden](http://macintoshgarden.org), users are able to download vintage Apple software. Unsupported in the eyes of Apple inc. but cared for by the thousands of retro Mac enthusiasts today.
@@ -29,10 +31,14 @@ SheepShaver should now boot into the Mac OS 9.0.0 installation page. If all prev
 
 <img width="1032" alt="Screenshot 2021-11-25 at 18 33 21" src="https://user-images.githubusercontent.com/95049774/143519229-b88e9772-29fc-47b6-ba75-b01ca9eba8f8.png">
 
+> Complete file list.
+
 
 ### **00. TAG MAC**
 
 Now we start: tagging Mac. As the Macintosh Graffiti Group, we wanted to explore the possibilites of graffiti art within Mac OS 9.0.0. We chose to install Photoshop 6.0, a powerful tool for the time.
+
+I allowed people to have a go at Mac OS 9. To many, it was a cool and especially nostalgic experience. 
 
 ### **GIVING GRAFFITI ARTISTS THE TOOLS TO COLLABORATE**
 
