@@ -1,9 +1,5 @@
 ![Macintosh Graffiti Group Logo WHITE](https://user-images.githubusercontent.com/95049774/143523174-8f2b1607-215e-4407-a0a3-03537cb616df.png)
 
-
-### *LEAVING OUR MARK ON RETRO MAC!*
-
-
 # ***We wanted to push the boundaries of graffiti.***
 
 ***As graffiti artists we always ask "What hasn't been tagged?"***
