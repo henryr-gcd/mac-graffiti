@@ -1,5 +1,3 @@
-# mac-graffiti
-
 ![Macintosh Graffiti Group Logo WHITE](https://user-images.githubusercontent.com/95049774/143523174-8f2b1607-215e-4407-a0a3-03537cb616df.png)
 
 
