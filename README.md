@@ -60,7 +60,7 @@ I allowed people to have a go at Mac OS 9.0.0 and write their tag. To many, it w
 ![PXL_20211125_173127307](https://user-images.githubusercontent.com/95049774/143521864-ff1a7903-e391-4332-8398-eb2eaf480e47.jpg)
 ![PXL_20211125_201942258 MP](https://user-images.githubusercontent.com/95049774/143521904-dd789480-c619-485f-9820-cd43061b676f.jpg)
 
-### **CREATIVE INSPIRATION AND REFERENCES***
+### **CREATIVE INSPIRATION AND REFERENCES**
 ![PXL_20211125_185602823 MP](https://user-images.githubusercontent.com/95049774/143592532-6e5bbb5d-176c-4c36-b731-84a24c9ccf6f.jpg)
 ![PXL_20211125_185618029 MP](https://user-images.githubusercontent.com/95049774/143592603-7731f8c8-a677-41ec-a371-9af86fb9b836.jpg)
 
