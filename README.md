@@ -1,6 +1,6 @@
 ![Macintosh Graffiti Group Logo WHITE](https://user-images.githubusercontent.com/95049774/143523174-8f2b1607-215e-4407-a0a3-03537cb616df.png)
 
-# ***We wanted to push the boundaries of graffiti.***
+# ***WE WANTED TO PUSH THE BOUNDARIES OF GRAFFITI***
 
 ***As graffiti artists we always ask "What hasn't been tagged?"***
 
@@ -12,7 +12,12 @@
 
 ***We are the Macintosh Graffiti Group - Tagging Mac OS 9.0.0 since 2021.***
 
-![tagged mac 1 copy](https://user-images.githubusercontent.com/95049774/143516800-e8fff3ed-7acb-43b0-83be-e630983834b9.png)
+
+<img width="1136" alt="Screenshot 2021-11-25 at 17 30 55" src="https://user-images.githubusercontent.com/95049774/143590162-a488d72a-8da0-47c6-a729-95cc59870717.png">
+
+### **INSPIRATION**
+
+My passion of graffiti art merged with my nostalgia for old Macs that I often used as a child. 
 
 ### **HOW?**
 
